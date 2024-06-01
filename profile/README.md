@@ -7,4 +7,4 @@
 > Team.MindWay에 관한 질문은 Discord: **Xixn2**로 부탁드립니다.  
 
 
-<img src="https://github.com/Team-MindWay/.github/blob/main/mindway%20%ED%99%8D%EB%B3%B41.png" width=700 height=400px><img>
+<img src="https://github.com/Team-MindWay/.github/blob/main/mindway%20%ED%99%8D%EB%B3%B41.png" width=600 height=350px><img>
